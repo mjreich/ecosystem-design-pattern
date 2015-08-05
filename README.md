@@ -1,4 +1,4 @@
-First, read the [wiki](wiki)
+First, read the [wiki](https://github.com/mjreich/ecosystem-design-pattern/wiki)
 
 ## Requirements
 
