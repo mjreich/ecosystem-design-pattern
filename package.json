@@ -1,0 +1,26 @@
+{
+  "name": "ecosystem-design-pattern",
+  "version": "0.0.1",
+  "description": "An example of the design pattern",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjreich/ecosystem-design-pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjreich/ecosystem-design-pattern/issues"
+  },
+  "homepage": "https://github.com/mjreich/ecosystem-design-pattern",
+  "devDependencies": {
+    "babel": "^5.8.20"
+  }
+}
